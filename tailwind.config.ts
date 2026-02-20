@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        fids: {
+          gold: "hsl(var(--fids-gold))",
+          green: "hsl(var(--fids-green))",
+          red: "hsl(var(--fids-red))",
+          yellow: "hsl(var(--fids-yellow))",
+          blue: "hsl(var(--fids-blue))",
+          glass: "hsl(var(--fids-glass))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
